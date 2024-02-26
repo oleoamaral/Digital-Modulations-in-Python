@@ -1,5 +1,7 @@
 # Digital Modulations in Python
 
+Models for simulation of digital modulation and demodulation techniques using Python
+
 ### Books 
 
 - [Think DSP](https://greenteapress.com/wp/think-dsp/)
