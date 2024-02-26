@@ -1,6 +1,6 @@
 # Digital Modulations in Python
 
-Models for simulation of digital modulation and demodulation techniques using Python
+Models for simulation of digital modulation and demodulation techniques using Python.
 
 ### Books 
 
