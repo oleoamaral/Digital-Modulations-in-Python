@@ -4,8 +4,7 @@
 
 - [Think DSP](https://greenteapress.com/wp/think-dsp/)
 - [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org/)
-- [The Scientist and Engineer's Guide to
-Digital Signal Processing]([https://automatetheboringstuff.com/](https://www.dspguide.com/))
+- [The Scientist and Engineer's Guide to Digital Signal Processing]([https://automatetheboringstuff.com/](https://www.dspguide.com/))
   
 --- 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
